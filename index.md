@@ -5,7 +5,7 @@ layout: default
 
 
 ## Bio
-I am a third-year master's student at the [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), Jilin University, and I am also a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team/) Lab under the supervision of Prof. [Rui Ma](https://ruim-jlu.github.io/).
+I graduated from the [School of Artificial Intelligence](https://sai.jlu.edu.cn/en/), Jilin University, in 2024, and I was a member of the [Intelligent Content Learning (ICL)](https://ruim-jlu.github.io/team/) Lab under the supervision of [Prof. Rui Ma](https://ruim-jlu.github.io/).
 
 
 ## Research Interests
