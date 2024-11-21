@@ -11,6 +11,6 @@ I am a third-year master's student at the [School of Artificial Intelligence](ht
 ## Research Interests
 Lately, my primary area of interest is Computer Vision and Computer Graphics, specifically in the field of **highly controllable content generation, both in 2D and 3D domains**.
 
-## _I made the decision to migrate my blog to Notion_
+## <font color="red">_I made the decision to migrate my blog to Notion_</font>
 [Link to my blog](https://linlianjiang.vercel.app/home)
 
