@@ -9,6 +9,7 @@ I am under the co-supervision of Prof. [Yang Wang](https://users.encs.concordia.
 
 
 ## Research Interests
-My focus is **generative AI** and **meta-learning** in 3D vision.
+My focus is **meta-learning** and **generative AI** in 3D vision.
+
 
 
